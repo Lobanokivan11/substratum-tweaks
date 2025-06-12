@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>Add commentMore actions
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Allow automatic adjusting of the screen brightness while dozing in low power state. -->
     <bool name="config_allowAutoBrightnessWhileDozing">true</bool>
